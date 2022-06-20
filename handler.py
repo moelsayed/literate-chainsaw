@@ -1,2 +1,2 @@
 def main(event, context):
-    return "hello world, version 3"
+    return "hello world, version 4"
